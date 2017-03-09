@@ -6,7 +6,7 @@ layout: default
 There are a number of essential practices which most influence mapping project apply along the way. 
 
 ## Plan
-_When you get started on a project it's usually an intuition or a question that guides you, but to achieve your goals, a little bit of planning goes a long way.
+_When you start a project it's usually guided by an intuition or a question.  Here's where a little bit of planning goes a long way.
 
 You've found a good place to start! The Influence Mapping Toolbox aims to help people learn about existing influence mapping projects, and to share learning about common practices, tools and project experiences, so that influence mapping as a practice can grow and have even more impact.
 
@@ -25,7 +25,7 @@ In this section we'll be looking at:_
 
 
 ## Collect
-_There&#39;s a lot of data out there asking the right questions and knowing when you need to organise your own data collection takes experience.
+_There&#39;s a lot of data out there. Asking the right questions and knowing when you need to organise your own data collection takes experience.
 
 One of the first things to address around data collection is what your question is or what is the story you're trying to tell. This will determine which data you need. Data collection could have an impact beyond the objectives of your story and it's always important to consider the ethical aspect of your data collection before you start.
 
@@ -49,7 +49,7 @@ _
 
 
 ## Organise
-_Investigating, analysing and finding more about your problem goes hand in hand with how you organise and structure your data. It determines how your project is experienced by your audience but it will also have a lot of impact on the type of technology you&#39;ll need._
+_Investigating, analysing and finding more about your issue goes hand in hand with how you organise and structure your data. It determines how your project is experienced by your audience but it will also have a lot of impact on the type of technology you&#39;ll need._
   * <a href="http://influencemapping.org/practices/model-data" target="_blank">Model Data</a>: _How to choose a model to organise your data_ 
   * <a href="http://influencemapping.org/practices/integrate-data" target="_blank">Integrate Data</a>: _Transforming and joining data from different sources_ 
   * <a href="http://influencemapping.org/practices/analyse-data" target="_blank">Analyse Data</a>: _How to analyse your data?_ 
@@ -57,7 +57,7 @@ _Investigating, analysing and finding more about your problem goes hand in hand 
 
 
 ## Publish
-_Putting your story out there is when it can be able to create impact. But with data stories, allowing others to build on your result can be the difference between satisfying accolades by your peers and actual real world impact._
+_Making your data tell a compelling story is critical. Allowing others to build on your results may have the larger real world impact._
   * <a href="http://influencemapping.org/practices/present-data" target="_blank">Present Data</a>: _Make your data tell its story and engage your audience_ 
   * <a href="http://influencemapping.org/practices/describe-data" target="_blank">Describe Data</a>: _Explain where your data is coming from and how its structure_ 
   * <a href="http://influencemapping.org/practices/facilitate-data-reuse" target="_blank">Facilitate Data</a>: _Make it easier for others to reuse and build on your data_ 
